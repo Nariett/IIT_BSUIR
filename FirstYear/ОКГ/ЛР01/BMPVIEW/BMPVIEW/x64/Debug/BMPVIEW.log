@@ -1,0 +1,5 @@
+﻿  BMPVIEW.cpp
+C:\Git\IIT_BSUIR\FirstYear\ОКГ\ЛР01\BMPVIEW\BMPVIEW\BMPVIEW.cpp(106,13): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Git\IIT_BSUIR\FirstYear\ОКГ\ЛР01\BMPVIEW\BMPVIEW\BMPVIEW.cpp(298,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Git\IIT_BSUIR\FirstYear\ОКГ\ЛР01\BMPVIEW\BMPVIEW\BMPVIEW.cpp(303,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  BMPVIEW.vcxproj -> C:\Git\IIT_BSUIR\FirstYear\ОКГ\ЛР01\BMPVIEW\x64\Debug\BMPVIEW.exe
