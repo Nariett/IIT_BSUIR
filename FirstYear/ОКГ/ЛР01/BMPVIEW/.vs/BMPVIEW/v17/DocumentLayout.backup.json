@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u041A\u0413\\\u041B\u042001\\BMPVIEW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1513EEFE-4784-497D-9413-166BE8D5BD1C}|BMPVIEW\\BMPVIEW.vcxproj|C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u041A\u0413\\\u041B\u042001\\BMPVIEW\\BMPVIEW\\BMPVIEW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1513EEFE-4784-497D-9413-166BE8D5BD1C}|BMPVIEW\\BMPVIEW.vcxproj|solutionrelative:BMPVIEW\\BMPVIEW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1513EEFE-4784-497D-9413-166BE8D5BD1C}|BMPVIEW\\BMPVIEW.vcxproj|C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u041A\u0413\\\u041B\u042001\\BMPVIEW\\BMPVIEW\\BMPVIEW.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1513EEFE-4784-497D-9413-166BE8D5BD1C}|BMPVIEW\\BMPVIEW.vcxproj|solutionrelative:BMPVIEW\\BMPVIEW.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513EEFE-4784-497D-9413-166BE8D5BD1C}|BMPVIEW\\BMPVIEW.vcxproj|C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u041A\u0413\\\u041B\u042001\\BMPVIEW\\BMPVIEW\\BMPVIEW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1513EEFE-4784-497D-9413-166BE8D5BD1C}|BMPVIEW\\BMPVIEW.vcxproj|solutionrelative:BMPVIEW\\BMPVIEW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1407,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BMPVIEW.h",
               "DocumentMoniker": "C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u041A\u0413\\\u041B\u042001\\BMPVIEW\\BMPVIEW\\BMPVIEW.h",
               "RelativeDocumentMoniker": "BMPVIEW\\BMPVIEW.h",
               "ToolTip": "C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u041A\u0413\\\u041B\u042001\\BMPVIEW\\BMPVIEW\\BMPVIEW.h",
               "RelativeToolTip": "BMPVIEW\\BMPVIEW.h",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowBcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-26T07:14:42.118Z"
+              "WhenOpened": "2024-11-26T07:14:42.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BMPVIEW.cpp",
               "DocumentMoniker": "C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u041A\u0413\\\u041B\u042001\\BMPVIEW\\BMPVIEW\\BMPVIEW.cpp",
               "RelativeDocumentMoniker": "BMPVIEW\\BMPVIEW.cpp",
               "ToolTip": "C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u041A\u0413\\\u041B\u042001\\BMPVIEW\\BMPVIEW\\BMPVIEW.cpp",
               "RelativeToolTip": "BMPVIEW\\BMPVIEW.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T07:14:24.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T07:14:24.647Z"
             }
           ]
         }
