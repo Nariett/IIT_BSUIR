@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0411\u0413\u0423\u0418\u0420\\\u041E\u0410\u0438\u041F\\\u041B\u042001\\Lab01\\",
+  "WorkspaceRootPath": "C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u0410\u0438\u041F\\\u041B\u042001\\Lab01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C5E3F0A-E52E-4934-B4C3-B69A53AF1F5F}|Lab01\\Lab01.vcxproj|D:\\\u0411\u0413\u0423\u0418\u0420\\\u041E\u0410\u0438\u041F\\\u041B\u042001\\Lab01\\Lab01\\Lab01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6C5E3F0A-E52E-4934-B4C3-B69A53AF1F5F}|Lab01\\Lab01.vcxproj|C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u0410\u0438\u041F\\\u041B\u042001\\Lab01\\Lab01\\Lab01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C5E3F0A-E52E-4934-B4C3-B69A53AF1F5F}|Lab01\\Lab01.vcxproj|solutionrelative:Lab01\\Lab01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab01.cpp",
-              "DocumentMoniker": "D:\\\u0411\u0413\u0423\u0418\u0420\\\u041E\u0410\u0438\u041F\\\u041B\u042001\\Lab01\\Lab01\\Lab01.cpp",
+              "DocumentMoniker": "C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u0410\u0438\u041F\\\u041B\u042001\\Lab01\\Lab01\\Lab01.cpp",
               "RelativeDocumentMoniker": "Lab01\\Lab01.cpp",
-              "ToolTip": "D:\\\u0411\u0413\u0423\u0418\u0420\\\u041E\u0410\u0438\u041F\\\u041B\u042001\\Lab01\\Lab01\\Lab01.cpp",
+              "ToolTip": "C:\\Git\\IIT_BSUIR\\FirstYear\\\u041E\u0410\u0438\u041F\\\u041B\u042001\\Lab01\\Lab01\\Lab01.cpp",
               "RelativeToolTip": "Lab01\\Lab01.cpp",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-11T13:40:18.501Z",
               "EditorCaption": ""
